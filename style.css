@@ -95,7 +95,7 @@ li{
 
 /* gradient part */
 .gradient-part{
-            background-image: linear-gradient(to right, rgba(29, 5, 168, 0.925), rgba(156, 192, 240, 0.73)), url('images/watch.png');
+            background-image: linear-gradient(to right, rgba(29, 5, 168, 0.925), rgba(156, 192, 240, 0.73)), url('./images/watch.png');
             width: 80%;
             height: 400px;
             background-size: cover;
